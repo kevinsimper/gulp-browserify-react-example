@@ -1,0 +1,28 @@
+{
+  "name": "gulp-browserify-simple-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.4.0",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinsimper/gulp-browserify-simple-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinsimper/gulp-browserify-simple-example/issues"
+  },
+  "homepage": "https://github.com/kevinsimper/gulp-browserify-simple-example#readme"
+}
